@@ -8,9 +8,9 @@ Create (multiple) WordPress plugins that use **React**, **TypeScript**, and **ob
 
 > Wow, I didn't know the WordPress plugin development could look like this!
 
-🚀 **Instant no-config plugin creation with** [**create-wp-react-app**](https://github.com/devowlio/create-wp-react-app) 🔥
+🚀 **Instant no-config plugin creation with** [**create-wp-react-app**](https://github.com/xplodedthemes/create-wp-react-app) 🔥
 
-[![GitHub stars](https://img.shields.io/github/stars/devowlio/wp-react-starter?style=flat&logo=github)](https://github.com/devowlio/wp-react-starter)
+[![GitHub stars](https://img.shields.io/github/stars/devowlio/wp-react-starter?style=flat&logo=github)](https://github.com/xplodedthemes/wp-react-starter)
 [![Join on Slack](https://img.shields.io/badge/Slack-join-green.svg?style=flat&logo=slack)](https://matthias-web.com/slack)
 [![codecov](https://codecov.io/gl/devowlio/wp-reactjs-starter/branch/master/graph/badge.svg)](https://codecov.io/gl/devowlio/wp-reactjs-starter)
 [![GitLab CI/CD](https://img.shields.io/badge/CI%20%2F%20CD-See%20history-green?logo=gitlab)](https://gitlab.com/devowlio/wp-reactjs-starter/pipelines)
@@ -27,7 +27,7 @@ With WP React Starter we have created a modern WordPress development boilerplate
 -   **Docker** development environment to develop all you plugins without manual setup steps
 -   **CI/CD integration** for automated code quality checks and release management (publish on [wordpress.org](https://wordpress.org/plugins/developers/) or wherever you want)
 
-Does that sound like crappy WordPress plugin development or what you really have been looking for for your plugins for a long time? **Let's start today with your first WordPress plugin! Create it within 5 minutes, thanks to our CLI** [**create-wp-react-app**](https://github.com/devowlio/create-wp-react-app)
+Does that sound like crappy WordPress plugin development or what you really have been looking for for your plugins for a long time? **Let's start today with your first WordPress plugin! Create it within 5 minutes, thanks to our CLI** [**create-wp-react-app**](https://github.com/xplodedthemes/create-wp-react-app)
 
 ### **Client-Side Features**
 
